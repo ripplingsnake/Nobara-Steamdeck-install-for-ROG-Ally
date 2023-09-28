@@ -28,6 +28,8 @@ sudo ./build.sh in HandyGCCS folder
 
 sudo ln -s /usr/local/bin/handycon /usr/bin/handycon
 
+Reboot
+
 
 sudo systemctl start handycon
 
@@ -43,9 +45,10 @@ Next is Asusctl follow everything as described
  
 Open nobara package manager, in search box type ausctl select both asusctl and rog gui and apply. Nobara will automatically install it.
 
-sudo systemctl enable asusd
 
 sudo systemctl start asusd
+
+REBOOT
 
 __________________________________________________________________________________________________
 
@@ -101,7 +104,7 @@ Start Cryoutilities and change all to Recommended, password is gamer as default 
 
 Enjoy your new steamdeck aka ROG ALLY!!!!
 
-If you and ROG control as non steam game you can open in gamemaode and change your power preference 
+
 
 optional install power tools in decky then go here and follow the instarutions for power control and tdp options 
 
