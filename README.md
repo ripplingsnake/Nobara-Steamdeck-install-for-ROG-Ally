@@ -41,21 +41,11 @@ ________________________________________________________________________________
 
 Next is Asusctl follow everything as described 
  
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+Open nobara package manager, in search box type ausctl select both asusctl and rog gui and apply. Nobara will automatically install it.
 
-sudo dnf install rust
+sudo systemctl enable asusd
 
-
- git clone https://github.com/flukejones/asusctl.git
-
-
-
-open terminal inside downloaded folder then
-
-sudo dnf install cmake clang-devel systemd-devel glib2-devel cairo-devel atkmm-devel pangomm-devel gdk-pixbuf2-devel gtk3-devel libappindicator-gtk3
-make
-
-sudo make install
+sudo systemctl start asusd
 
 __________________________________________________________________________________________________
 
@@ -82,7 +72,9 @@ sudo mkswap /swapfile
 sudo swapon /swapfile
 
 
-now enter sudo nano /etc/fstab 
+now enter 
+
+sudo nano /etc/fstab 
 
 if there is a line that contains anything with swap in it delete the whole line then,
 
