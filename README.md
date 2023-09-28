@@ -82,6 +82,8 @@ Add this to the end of the lines thats there,
 
 /swapfile swap swap defaults 0 0
 
+press cntl + O till you see wite  push enter to witre the line in then Cntl + x so save and exit 
+
 Reboot
 ______________________________________________________________________________________
 
