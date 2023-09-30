@@ -7,10 +7,10 @@ Download https://www.balena.io/etcher/ to burn the Nobara image to USB.
 
 https://nobaraproject.org/download-nobara/# down load Nobara for steam deck
 
-Tou can chose to dual boot during the install. choose the no swap option.
+You can chose to dual boot during the install. If given the option  choose the no swap file option.
 
 
-Once installed and updated do the following to enable Handy con and asusctl for fans and power profile options.
+Once installed and updated do the following to enable Handycon and asusctl for fans and power profile options.
 
 steps to enable handycon
 ______________________________________________________________________________________
