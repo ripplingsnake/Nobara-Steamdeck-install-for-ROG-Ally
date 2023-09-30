@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 Next is Asusctl follow everything as described 
  
-Open nobara package manager, in search box type ausctl select both asusctl and rog gui and apply. Nobara will automatically install it.
+Open nobara package manager, in search box type asusctl select both asusctl and rog gui and apply. Nobara will automatically install it.
 
 
 sudo systemctl start asusd
@@ -86,7 +86,7 @@ Add this to the end of the lines thats there,
 
 /swapfile swap swap defaults 0 0
 
-press cntl + O till you see wite  push enter to witre the line in then Cntl + x so save and exit 
+press cntl + O   push enter to write the line in then Cntl + x so save and exit 
 
 Reboot
 ______________________________________________________________________________________
